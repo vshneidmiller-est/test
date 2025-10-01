@@ -1,3 +1,6 @@
+
+"""Test HTTPX GET request to Google with SSL verification disabled."""
+
 import httpx
 
 def test_google_status():
