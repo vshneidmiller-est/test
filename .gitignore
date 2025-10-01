@@ -67,6 +67,11 @@ coverage.xml
 # VS Code
 .vscode/
 
+# JetBrains IDEs
+.idea/
+*.iml
+out/
+
 # macOS
 .DS_Store
 
