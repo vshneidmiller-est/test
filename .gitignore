@@ -72,6 +72,9 @@ coverage.xml
 *.iml
 out/
 
+# Test reports
+reports/
+
 # macOS
 .DS_Store
 
